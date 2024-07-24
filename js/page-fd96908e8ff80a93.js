@@ -26,7 +26,7 @@
       var e = E(7437),
         Q = E(6648),
         t = {
-          src: "/images/img2.882084ae.jpg",
+          src: "/Shapes/images/img2.882084ae.jpg",
           height: 1035,
           width: 828,
           blurDataURL:
@@ -35,7 +35,7 @@
           blurHeight: 8,
         },
         B = {
-          src: "/images/img3.db86c5b4.jpg",
+          src: "/Shapes/images/img3.db86c5b4.jpg",
           height: 1280,
           width: 930,
           blurDataURL:
@@ -44,7 +44,7 @@
           blurHeight: 8,
         },
         a = {
-          src: "/images/img4.9f09065a.jpg",
+          src: "/Shapes/images/img4.9f09065a.jpg",
           height: 1107,
           width: 564,
           blurDataURL:
@@ -53,7 +53,7 @@
           blurHeight: 8,
         },
         C = {
-          src: "/images/img5.fbad8816.jpg",
+          src: "/Shapes/images/img5.fbad8816.jpg",
           height: 295,
           width: 236,
           blurDataURL:
@@ -62,7 +62,7 @@
           blurHeight: 8,
         },
         i = {
-          src: "/images/img6.53d673b9.jpg",
+          src: "/Shapes/images/img6.53d673b9.jpg",
           height: 736,
           width: 736,
           blurDataURL:
@@ -71,7 +71,7 @@
           blurHeight: 8,
         },
         s = {
-          src: "/images/img8.1a41d632.jpg",
+          src: "/Shapes/images/img8.1a41d632.jpg",
           height: 960,
           width: 540,
           blurDataURL:
@@ -80,7 +80,7 @@
           blurHeight: 8,
         },
         h = {
-          src: "/images/img12.08cac8ee.jpg",
+          src: "/Shapes/images/img12.08cac8ee.jpg",
           height: 1280,
           width: 959,
           blurDataURL:
